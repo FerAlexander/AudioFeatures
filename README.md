@@ -1,0 +1,2 @@
+Song Popularity and Audio Features on Spotify
+This project dives into the intricate relationship between song popularity and various audio features on Spotify. By analyzing data on tempo, energy, danceability, and other musical attributes, this study reveals the key characteristics that contribute to a song's success. Discover how different audio features influence listener preferences and chart performance, providing valuable insights into the dynamics of hit songs.
